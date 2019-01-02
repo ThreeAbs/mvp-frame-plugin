@@ -1,0 +1,12 @@
+package &package&;
+import &mvp&.BasePresenterImpl;
+
+/**
+ * Author: Allen Wang
+ * Email:  181628396@qq.com
+ * Time:   &time&
+ */
+
+ class &className&Presenter : BasePresenterImpl<&className&Contract.View>() , &className&Contract.Presenter{
+    
+}

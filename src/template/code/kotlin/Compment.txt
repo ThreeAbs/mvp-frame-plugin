@@ -1,0 +1,15 @@
+package &package&;
+import &mvp&.MVPBase&type&;
+&placeholder1&
+
+/**
+ * Author: Allen Wang
+ * Email:  181628396@qq.com
+ * Time:   &time&
+ */
+
+ class &className&&type& : MVPBase&type&<&className&Contract.View, &className&Presenter>() , &className&Contract.View {
+
+  &placeholder2&
+
+}
